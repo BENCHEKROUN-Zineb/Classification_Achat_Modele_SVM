@@ -45,7 +45,7 @@ Le modèle SVM permet de classifier efficacement les utilisateurs en fonction de
 1. Cloner le repository :
 
    ```bash
-   git clone https://github.com/BENCHEKROUN-Zineb/Classification_Achat_Modele_SVM.git
+   git clone https://github.com/BENCHEKROUN-Zineb/Classification_social_purchase_SVM.git
    ```
 2. Ouvrir le notebook :
 
